@@ -35,7 +35,7 @@
     { "id": "freshco_bak_9", "name": "Blueberry Muffins (4)", "category": "Bakery", "unit": "pack", "price": 3.99, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?blueberry%20muffin&sig=129", "inStock": true },
     { "id": "freshco_bak_10", "name": "Kaiser Rolls (6)", "category": "Bakery", "unit": "pack", "price": 3.29, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?bread%20rolls&sig=130", "inStock": true },
 
-    { "id": "freshco_dai_1", "name": "2% Milk (2L)", "category": "Dairy", "unit": "bottle", "price": 3.99, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?milk&sig=131", "inStock": true },
+    { "id": "freshco_dai_1", "name": "2% Milk (2L)", "category": "Dairy", "unit": "bottle", "price": 3.99, "currency": "CAD", "image":"https://i5.walmartimages.com/asr/9204f9ee-c0f6-4930-98f5-ea99b047f013.4bf1bb15574a863731fa8f7964b00b9e.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF", "inStock": true },
     { "id": "freshco_dai_2", "name": "Butter (454g)", "category": "Dairy", "unit": "block", "price": 5.49, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?butter&sig=132", "inStock": true },
     { "id": "freshco_dai_3", "name": "Cheddar Cheese (400g)", "category": "Dairy", "unit": "block", "price": 5.99, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?cheddar%20cheese&sig=133", "inStock": true },
     { "id": "freshco_dai_4", "name": "Yogurt (650g, Plain)", "category": "Dairy", "unit": "tub", "price": 3.69, "currency": "CAD", "image": "https://source.unsplash.com/800x450/?yogurt&sig=134", "inStock": true },
