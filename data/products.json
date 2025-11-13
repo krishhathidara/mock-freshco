@@ -2,7 +2,7 @@
   "storeId": "freshco",
   "storeName": "FreshCo",
   "products": [
-    { "id": "freshco_veg_1", "name": "Broccoli Crown (300g)", "category": "Vegetables", "unit": "each", "price": 1.39, "currency": "CAD", "image": "https://i5.walmartimages.com/asr/9204f9ee-c0f6-4930-98f5-ea99b047f013.4bf1bb15574a863731fa8f7964b00b9e.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF", "inStock": true },
+    { "id": "freshco_veg_1", "name": "Broccoli Crown (300g)", "category": "Vegetables", "unit": "each", "price": 2.39, "currency": "CAD", "image": "https://i5.walmartimages.com/asr/9204f9ee-c0f6-4930-98f5-ea99b047f013.4bf1bb15574a863731fa8f7964b00b9e.png?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF", "inStock": true },
     { "id": "freshco_veg_2", "name": "Red Bell Pepper", "category": "Vegetables", "unit": "each", "price": 1.19, "currency": "CAD", "image": "https://theproduceguyz.com/cdn/shop/products/image_ab9e2bb4-ed73-40fc-b977-69ea1b96c5fa.jpg?v=1598888046", "inStock": true },
     { "id": "freshco_veg_3", "name": "Cucumber (Long English)", "category": "Vegetables", "unit": "each", "price": 0.99, "currency": "CAD", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-4rf0Ai6x5Y3ceOk98eBsLAxyvvliVgktKg&s", "inStock": true },
     { "id": "freshco_veg_4", "name": "Spinach (227g)", "category": "Vegetables", "unit": "bag", "price": 2.29, "currency": "CAD", "image": "https://images.cdn.saveonfoods.com/detail/94090.jpg", "inStock": true },
