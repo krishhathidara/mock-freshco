@@ -24,7 +24,7 @@
     { "id": "freshco_fru_9", "name": "Pineapple", "category": "Fruits", "unit": "each", "price": 3.49, "currency": "CAD", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_Qm5LpZ-FO7gK9SwY9EyxYwMPhOsSuPZUw&s", "inStock": true },
     { "id": "freshco_fru_10", "name": "Raspberries (170g)", "category": "Fruits", "unit": "clamshell", "price": 3.99, "currency": "CAD", "image": "https://www.freshpoint.com/wp-content/uploads/raspberries3-e1576523550874.jpg", "inStock": true },
 
-    { "id": "freshco_bak_1", "name": "White Sandwich Bread (675g)", "category": "Bakery", "unit": "loaf", "price": 2.49, "currency": "CAD", "image": "https://www.goldmedalbakery.com/content/uploads/2019/12/Sandwich-White.jpg", "inStock": true },
+    { "id": "freshco_bak_1", "name": "White Sandwich Bread (675g)", "category": "Bakery", "unit": "loaf", "price": 1.99, "currency": "CAD", "image": "https://www.goldmedalbakery.com/content/uploads/2019/12/Sandwich-White.jpg", "inStock": true },
     { "id": "freshco_bak_2", "name": "Whole Wheat Bread (675g)", "category": "Bakery", "unit": "loaf", "price": 2.99, "currency": "CAD", "image": "https://www.chainbaker.com/wp-content/uploads/2022/02/IMG_2362.jpg", "inStock": true },
     { "id": "freshco_bak_3", "name": "Croissants (6 pack)", "category": "Bakery", "unit": "pack", "price": 4.49, "currency": "CAD", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA3CHk8pbUGla_Ls2INRotqW5782cFI5NCg&s", "inStock": true },
     { "id": "freshco_bak_4", "name": "Bagels (Plain, 6)", "category": "Bakery", "unit": "pack", "price": 3.19, "currency": "CAD", "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/05/bagel-recipe.jpg", "inStock": true },
